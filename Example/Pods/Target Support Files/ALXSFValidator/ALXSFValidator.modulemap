@@ -1,0 +1,6 @@
+framework module ALXSFValidator {
+  umbrella header "ALXSFValidator-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+PODS:
+  - ALXSFValidator (0.1.0)
+
+DEPENDENCIES:
+  - ALXSFValidator (from `../`)
+
+EXTERNAL SOURCES:
+  ALXSFValidator:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ALXSFValidator: bb8cacde79ecc27f4a990eb64525de2d264888ee
+
+COCOAPODS: 0.39.0
